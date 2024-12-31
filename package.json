@@ -14,8 +14,8 @@
 	},
 	"dependencies": {
 		"@material-ui/core": "^4.6.1",
-		"next": "^9.4.2",
-		"next-offline": "^5.0.2",
+		"next": "^14.2.15",
+		"next-offline": "^5.0.5",
 		"react": "^16.13.1",
 		"react-axe": "^3.4.1",
 		"react-dom": "^16.13.1"
@@ -39,6 +39,6 @@
 		"eslint-plugin-jsx-a11y": "^6.2.3",
 		"eslint-plugin-react": "^7.20.0",
 		"eslint-plugin-react-hooks": "^4.0.2",
-		"serve": "^11.1.0"
+		"serve": "^14.2.4"
 	}
 }
